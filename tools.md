@@ -6,6 +6,11 @@ General Tools
   SAM and BAM parsing and manipulation in C, and provides and API for interacting with these types of files from C/C++.
     + [PySAM](http://pysam.readthedocs.org/en/latest/api.html) --- a Python interface to much of the Samtools API.
   
+* [SeqTK](https://github.com/lh3/seqtk) --- A set of C-language tools for dealing with sequencing files.  It's maintained 
+  and written by Heng Li (the author of BWA and many other popular software packages).  Here, you'll find lots of code 
+  with simple C APIs to let you interact with sequencing data (e.g. kseq.h provides a single header file for the efficient
+  reading of FASTA/FASTAQ files).
+
 * [Bedtools](http://bedtools.readthedocs.org/en/latest/) --- This is also a standard suite of tools for processing many formats 
   of genomic files.  If you need to do something involving genomic intervals, this is the tool to look to first.
 
