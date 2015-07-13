@@ -34,7 +34,7 @@
 * APBC/ August 20, 2014 
 
 ##October
-* [**RECOMB**/	Oct 19, 2014] (http://www.recomb2015.pl/)
+* [**RECOMB**/	Oct 18, 2015] (http://www.recomb2015.pl/)
 
 
 
