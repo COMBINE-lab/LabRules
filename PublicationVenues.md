@@ -16,12 +16,12 @@
 
 ##May
 
-* [**WABI**/	May 08, 2015] (http://wabi.gatech.edu/)
-* [**ACM-BCB**/	May 08, 2015] (http://acm-bcb.bme.gatech.edu/2015/index.html)
+* [**WABI**/	May 2, 2016] (http://conferences.au.dk/algo16/wabi/)
+* [**ACM-BCB**/	May 20, 2016] (http://acm-bcb.org/)
 
 ##June
-* [RECOMB-CG/	June 19, 2015] (https://applbio.biologie.uni-frankfurt.de/recombcg2015/)
-* BIBE/ June 15th, 2015 
+* ~~[RECOMB-CG/	June 19, 2015] (https://applbio.biologie.uni-frankfurt.de/recombcg2015/)~~
+* ~~BIBE/ June 15th, 2015~~
 
 ##JULY
 * SODA/ July 1 July 08, 2015 
